@@ -1,2 +1,3 @@
-# golang_secure_login_portal
-Web authentication using GoLang
+# Secure login portal made in GoLang
+> Web authentication using GoLang
+
